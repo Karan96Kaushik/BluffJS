@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "foundationdb": "^1.0.3",
+    "lodash": "^4.17.21",
+    "prompt-sync": "^4.2.0",
+    "socket.io": "^4.3.1",
+    "socket.io-client": "^4.3.2"
+  }
+}
